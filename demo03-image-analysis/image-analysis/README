@@ -1,0 +1,5 @@
+# Training Serverless with Rekognition
+
+> Important: Rekognition doesn't work in sa-east-1
+
+[Url AWS](https://p6p887zfea.execute-api.us-east-1.amazonaws.com/dev/users/create?imageUrl=http://www.krugerpark.co.za/images/black-maned-lion-shem-compion-590x390.jpg)
